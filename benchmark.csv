@@ -1,0 +1,4 @@
+Method,Status,Time (s),Peak RAM (MB),System RAM (%)
+Standard Pandas,OOM,N/A,3935,92.0
+Pandas Chunking,OK,128.5,142,67.6
+Dask DataFrame,OK,35.5,2155,73.8
